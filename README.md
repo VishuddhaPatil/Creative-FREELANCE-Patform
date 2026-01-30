@@ -35,6 +35,9 @@ A full-stack creative freelance platform inspired by Freelancer and Behance wher
 ### Database
 - MySQL
 ---
+##project structure
+frontend React application
+backend Spring Boot application
 
 ## 📌 Status
 🚧 In progress – UI and core platform features planned.
